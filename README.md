@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - I'm currently studying software engineering at [42 Paris](https://42.fr/en/homepage/).
 - These days I'm working on my school project `ft_containers`, which is about recoding some containers from the C++'s standard library.
 - I'm currently learning C++, TypeScript, React, NestJS and developing system administration skills.
-- I'm actively developing [my website](https://github.com/aurelien-brabant) and publishing some blog articles on it!
+- I'm actively developing [my website](https://aurelienbrabant.fr) and publishing some blog articles on it!
