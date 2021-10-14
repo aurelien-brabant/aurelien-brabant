@@ -50,28 +50,20 @@ Here are some ideas to get you started:
 <img align="left" alt="NodeJS" width="40px" src="https://aurelienbrabant.fr/technologies/nodejs.png" />
 <img align="left" alt="NestJS" width="40px" src="https://aurelienbrabant.fr/technologies/nestjs.svg" />
 
-<br />
-<br />
-
 <img align="left" alt="C Programming Language" width="40px" src="https://aurelienbrabant.fr/technologies/c.png" />
 <img align="left" alt="C++ Programming Language" width="40px" src="https://aurelienbrabant.fr/technologies/cpp.png" />
 
-<br />
-<br />
 
 <img align="left" alt="Docker" width="40px" src="https://aurelienbrabant.fr/technologies/docker.png" />
 <img align="left" alt="Linux" width="40px" src="https://aurelienbrabant.fr/technologies/tux.png" />
 
-<br />
-<br />
 
 <img align="left" alt="vim" width="40px" src="https://aurelienbrabant.fr/technologies/vim.png" />
-<img align="left" alt="notion" width="40px" src="https://aurelienbrabant.fr/technologies/notion.png" />
 
 <br />
 <br />
 
-## Latest blogposts
+## 📕 Latest blogposts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
