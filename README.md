@@ -41,24 +41,24 @@ Here are some ideas to get you started:
 
 ## Technologies and tools
 
-<img align="left" alt="HTML5" width="40px" src="https://aurelienbrabant.fr/technologies/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://aurelienbrabant.fr/technologies/css.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://aurelienbrabant.fr/technologies/javascript.png" />
-<img align="left" alt="TypeScript" width="40px" src="https://aurelienbrabant.fr/technologies/typescript.png" />
-<img align="left" alt="ReactJS" width="40px" src="https://aurelienbrabant.fr/technologies/react.png" />
-<img align="left" alt="NextJS" width="40px" src="https://aurelienbrabant.fr/technologies/nextjs.png" />
-<img align="left" alt="NodeJS" width="40px" src="https://aurelienbrabant.fr/technologies/nodejs.png" />
-<img align="left" alt="NestJS" width="40px" src="https://aurelienbrabant.fr/technologies/nestjs.svg" />
+<img align="left" alt="HTML5" width="40px" src="https://aurelienbrabant.fr/technos/html.svg" />
+<img align="left" alt="CSS3" width="40px" src="https://aurelienbrabant.fr/technos/css.svg" />
+<img align="left" alt="JavaScript" width="40px" src="https://aurelienbrabant.fr/technos/javascript.svg" />
+<img align="left" alt="TypeScript" width="40px" src="https://aurelienbrabant.fr/technos/typescript.svg" />
+<img align="left" alt="ReactJS" width="40px" src="https://aurelienbrabant.fr/technos/reactjs.svg" />
+<img align="left" alt="NextJS" width="40px" src="https://aurelienbrabant.fr/technos/nextjs.svg" />
+<img align="left" alt="NodeJS" width="40px" src="https://aurelienbrabant.fr/technos/nodejs.svg" />
+<img align="left" alt="NestJS" width="40px" src="https://aurelienbrabant.fr/technos/nestjs.svg" />
 
-<img align="left" alt="C Programming Language" width="40px" src="https://aurelienbrabant.fr/technologies/c.png" />
-<img align="left" alt="C++ Programming Language" width="40px" src="https://aurelienbrabant.fr/technologies/cpp.png" />
-
-
-<img align="left" alt="Docker" width="40px" src="https://aurelienbrabant.fr/technologies/docker.png" />
-<img align="left" alt="Linux" width="40px" src="https://aurelienbrabant.fr/technologies/tux.png" />
+<img align="left" alt="C Programming Language" width="40px" src="https://aurelienbrabant.fr/technos/c.svg" />
+<img align="left" alt="C++ Programming Language" width="40px" src="https://aurelienbrabant.fr/technos/cpp.svg" />
 
 
-<img align="left" alt="vim" width="40px" src="https://aurelienbrabant.fr/technologies/vim.png" />
+<img align="left" alt="Docker" width="40px" src="https://aurelienbrabant.fr/technos/docker.svg" />
+<img align="left" alt="Linux" width="40px" src="https://aurelienbrabant.fr/technos/linux.svg" />
+
+
+<img align="left" alt="vim" width="40px" src="https://aurelienbrabant.fr/technos/vim.svg" />
 
 <br />
 <br />
