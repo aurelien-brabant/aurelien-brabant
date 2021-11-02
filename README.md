@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ## Technologies and tools
 
 <img align="left" alt="HTML5" width="40px" src="https://aurelienbrabant.fr/technos/html.svg" />
-<img align="left" alt="CSS3" width="40px" src="https://aurelienbrabant.fr/technos/css.svg" />
+<img align="left" alt="CSS3" width="40px" src="https://aurelienbrabant.fr/technos/css3.svg" />
 <img align="left" alt="JavaScript" width="40px" src="https://aurelienbrabant.fr/technos/javascript.svg" />
 <img align="left" alt="TypeScript" width="40px" src="https://aurelienbrabant.fr/technos/typescript.svg" />
 <img align="left" alt="ReactJS" width="40px" src="https://aurelienbrabant.fr/technos/reactjs.svg" />
