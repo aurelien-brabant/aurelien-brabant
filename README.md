@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="HTML5" width="40px" src="https://aurelienbrabant.fr/technos/html.svg" />
 <img align="left" alt="CSS3" width="40px" src="https://aurelienbrabant.fr/technos/css3.svg" />
+<img align="left" alt="SASS" width="40px" src="https://aurelienbrabant.fr/technos/sass.svg" />
 <img align="left" alt="JavaScript" width="40px" src="https://aurelienbrabant.fr/technos/javascript.svg" />
 <img align="left" alt="TypeScript" width="40px" src="https://aurelienbrabant.fr/technos/typescript.svg" />
 <img align="left" alt="ReactJS" width="40px" src="https://aurelienbrabant.fr/technos/reactjs.svg" />
@@ -58,7 +59,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Linux" width="40px" src="https://aurelienbrabant.fr/technos/linux.svg" />
 
 
-<img align="left" alt="vim" width="40px" src="https://aurelienbrabant.fr/technos/vim.svg" />
+
 
 <br />
 <br />
