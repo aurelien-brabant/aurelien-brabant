@@ -67,9 +67,9 @@ Here are some ideas to get you started:
 ## 📕 Latest blogposts
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a robust multi language system using React](https://aurelienbrabant.fr/blog/create-a-robust-multi-language-system-using-react)
 - [An introduction to UNIX pipes](https://aurelienbrabant.fr/blog/an-introduction-to-unix-pipes)
+- [Create a robust multi language system using React](https://aurelienbrabant.fr/blog/create-a-robust-multi-language-system-using-react)
 - [Managing events with the minilibx](https://aurelienbrabant.fr/blog/events-with-the-minilibx)
-- [Pixel drawing with the minilibx](https://aurelienbrabant.fr/blog/pixel-drawing-with-the-minilibx)
 - [Getting started with the minilibx](https://aurelienbrabant.fr/blog/getting-started-with-the-minilibx)
+- [Pixel drawing with the minilibx](https://aurelienbrabant.fr/blog/pixel-drawing-with-the-minilibx)
 <!-- BLOG-POST-LIST:END -->
