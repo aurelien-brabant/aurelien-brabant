@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## About me
 
 - 🧑‍🎓 I study software engineering at [42 Paris](https://42.fr/en/homepage/) since 2020
-- 🔭 I'm currently working on a [tiny HTTP server](https://github.com/busshi/webserv) implementation built with `C++`, as well as on my [personal website](https://aurelienbrabant.fr)
+- 🔭 I work as a fullstack typescript developer as a freelancer
 - 🌱 I'm currently learning `C++`, `TypeScript`, `ReactJS`, `NestJS` and DevOps
 - 📕 I enjoy writing stuff on [my blog](https://aurelienbrabant.fr/blog)
 - 👯 I'm looking to collaborate on open source projects
